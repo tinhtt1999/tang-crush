@@ -7,11 +7,11 @@ const CONFIG = {
     desc: ' ',
     btnYes: 'Italia Elizabeth <3',
     btnNo: 'La Roja Tây Bán Nhà :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    question:'Tại sao bạn nghĩ Ý có thể lọt vào chung kết 🙃🙃🙃',
+    btnReply: 'Gửi cho nhóc Tam sư 😏',
+    reply: 'Tây Ban Nha tuổi gì 😏',
+    mess: 'Anh biết mà 🥰. Anh đang đợi em đây 😘',
+    messDesc: '',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messLink: 'https://xoilac.tiengruoi.link/live/60e39b5b865b280023fdf913' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
