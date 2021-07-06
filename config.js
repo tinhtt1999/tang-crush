@@ -11,7 +11,7 @@ const CONFIG = {
     btnReply: 'Gửi cho nhóc Tam sư 😏',
     reply: 'Tây Ban Nha tuổi gì 😏',
     mess: 'Anh biết mà 🥰. Anh đang đợi em đây 😘',
-    messDesc: '',
+    messDesc: ' ',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://xoilac.tiengruoi.link/live/60e39b5b865b280023fdf913' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
